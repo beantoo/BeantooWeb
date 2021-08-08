@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Roboto&display=swap');
+*{
+	margin:  0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #64004c;
+}
+
+#nav {
+	text-align: center;
+  }
+  
+  #nav li {
+	list-style: none;
+	display: inline-block;
+  }
+  
+  #nav a {
+	color: #ffcf8e;
+	display: block;
+	font-family: "Patrick Hand SC";
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+	margin: 0;
+	padding: 30px 20px;
+	text-decoration: none;
+  }
+  
+  #nav a:hover {
+	background-color: #ffcf8e;
+	color: #64004c;
+  }
+  
+
+h1{
+	color: white;
+    font-family: 'Patrick Hand SC', cursive;
+	font-size: 4rem;
+	text-align: center;
+	line-height: 40vh;
+}
+
+p{
+	color: white;
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 2rem;
+	text-align: center;
+}
+
+span{
+	opacity: 0;
+	transition: all 0.4s ease;
+	transform: translateY(50px);
+	display: inline-block;
+}
+
+span.fade{
+	opacity: 1;
+	transform: translateY(0px);
+}
+
