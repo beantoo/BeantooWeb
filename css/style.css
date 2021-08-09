@@ -3,37 +3,39 @@
 	margin:  0;
 	padding: 0;
 	box-sizing: border-box;
-	background-color: #64004c;
+	background-color: #333e59;
 }
 
 #nav {
 	text-align: center;
+	background-color: #333e59;
   }
   
   #nav li {
 	list-style: none;
 	display: inline-block;
+	background-color: #333e59;
   }
   
   #nav a {
-	color: #ffcf8e;
-	display: block;
+	background-color: #333e59;
+	color: #fabbac;
+	display: flex;
 	font-family: 'Fredoka One', cursive;
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 40px;
-	margin: 0;
-	padding: 30px 20px;
+	padding: 20px 20px;
 	text-decoration: none;
   }
   
   #nav a:hover {
-	color: #f35467;
+	color: #ef8795;
   }
   
 
 p{
-	color: white;
+	color: #fabbac;
 	font-family: 'Fredoka One', cursive;
 	font-size: 25px;
 	text-align: center;
