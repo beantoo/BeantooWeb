@@ -39,7 +39,25 @@ p{
 	font-family: 'Fredoka One', cursive;
 	font-size: 25px;
 	text-align: center;
-	padding: 100px 20%;
-
+	padding: 20px 20%;
 }
 
+h4{
+	color: #ef8795;
+	font-family: 'Fredoka One', cursive;
+	font-size: 42px;
+	text-align: center;
+	padding: 20px 20%;
+}
+
+span{
+	opacity: 0;
+	transition: all 0.4s ease;
+	transform: translateY(50px);
+	display: inline-block;
+}
+
+span.fade{
+	opacity: 1;
+	transform: translateY(0px);
+}
