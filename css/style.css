@@ -34,30 +34,30 @@
   }
   
 
-p{
+p.beantoo{
 	color: #fabbac;
 	font-family: 'Fredoka One', cursive;
 	font-size: 25px;
 	text-align: center;
-	padding: 20px 20%;
+	padding: 100px 20%;
+
 }
 
-h4{
-	color: #ef8795;
+div.nugget {
+	padding-left: 200px;
+	text-align: left;
+}
+
+img.nugget {
+	border-radius: 50%;
+	height: 300px;
+}
+
+p.nugget {
+	color: #fabbac;
 	font-family: 'Fredoka One', cursive;
-	font-size: 42px;
-	text-align: center;
-	padding: 20px 20%;
+	font-size: 25px;
+	text-align: right;
+	padding:#;
 }
 
-span{
-	opacity: 0;
-	transition: all 0.4s ease;
-	transform: translateY(50px);
-	display: inline-block;
-}
-
-span.fade{
-	opacity: 1;
-	transform: translateY(0px);
-}
