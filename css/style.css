@@ -3618,3 +3618,6 @@ box-shadow: -20px 20px 35px #151515, 20px -40px 35px #151515;
 .active-dark .fdgn2 input,.active-dark .fdgn2 select,.active-dark .fdgn2 textarea {  border: 2px solid #404040!important;}
 .active-dark .modal-header { border-bottom: 1px solid #404040;}
 .active-dark .popup-modal1 .modal-dialog { background: #101010;}
+h4.takealook {
+    padding-top: 50px;
+}
