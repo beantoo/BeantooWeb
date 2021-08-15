@@ -6,7 +6,7 @@ Evan: We are a 2D game development studio. Come Take a Look at Our Team
 
         DevNugget: Hello! I am DevNugget! I make games, pixel art and youtube videos! I work with the godot game engine and I wish to bring a lot of fun to beantoo!
 
-        1 Bit Monster:
+        1 Bit Monster: Hi, my name's 1 Bit Monster. I am a uni student, and I like making games in Godot because GDScript is superior, and c is a bad language. That's all, I hope I can contribute a lot of things to BeanToo
 
         EvanDoesDev:
 
