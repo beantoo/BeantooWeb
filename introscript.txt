@@ -2,7 +2,7 @@ Aki: Hello there! How are you doing! Welcome to BeanToo.
 
 Evan: We are a 2D game development studio. Come Take a Look at Our Team
 
-        Xenuryne: Hey! Im xenuryne. I mostly work behind the scenes managing the website and discord. Im very excited to be a part of this team!
+        Xenuryne: Hey! Im xenuryne. I mostly work behind the scenes managing the website and discord. I also make some of the game music! Im very excited to be a part of this team!
 
         DevNugget: Hello! I am DevNugget! I make games, pixel art and youtube videos! I work with the godot game engine and I wish to bring a lot of fun to beantoo!
 
@@ -12,6 +12,6 @@ Evan: We are a 2D game development studio. Come Take a Look at Our Team
 
 Xenuryne: If you want to follow our personal channels, like youtube twitch and twitter, they are in the description.
 
-DevNugget: But biggest of all, dont forget to join the BeanToo discord and visit the BeanToo website. There, we drop our projects, art for games, and music.
+DevNugget: But biggest of all, dont forget to join the BeanToo discord and visit the BeanToo website. There, we drop our projects, art for games, and devlog updates.
 
 Aki: Hope to see you there!
